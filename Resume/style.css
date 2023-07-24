@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+.card {
+    width: 800px;
+    height: 1250px ;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px auto;
+    box-shadow: 0px 0px 10px skyblue;
+  }
+
+.outer{
+    width:700px;
+    height:800px;
+    margin:0px auto;
+}
+.outer h1{
+    text-align: center;
+}
+.p{
+    font-size: 20px;
+}
+.border{
+    width: 100%;
+    padding: 5px;
+    background-color: gray;
+    border: 1px solid black;
+    font-weight: bold;
+}
+ul{
+    font-size: 20px;
+    margin-left: 50px;
+}
